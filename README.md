@@ -6,7 +6,7 @@
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=cs,cpp,rust,py&perline=5" />
+    <img src="https://skillicons.dev/icons?i=cpp,rust,py&perline=5" />
     <h3>Tools</h3>
     <img src="https://skillicons.dev/icons?i=godot,linux,git&perline=5" />
     <h3>Software</h3>
